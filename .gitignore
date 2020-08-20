@@ -33,6 +33,10 @@ local.properties
 # node.js
 #
 node_modules/
+cosas inutiles/
+android/
+*.pepk
+*.keystore.old
 npm-debug.log
 yarn-error.log
 
